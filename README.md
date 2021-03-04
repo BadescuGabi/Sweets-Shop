@@ -1,5 +1,5 @@
 # Sweets Shop
- Is an online shopping site dedicated for people who love candies. This site was developed using ASP .NET MVC5 with entity framework and html, css, boostrap and javascript for front end./
+ Is an online shopping site dedicated for people who love candies. This site was developed using ASP .NET MVC5 with entity framework and html, css, boostrap and javascript for front end.  
 -4 types of users: unregistered user, registered user, collaborator, administrator
 -the collaborator can add products in the store. Will send addition requests to the administrator, and the administrator can reject them or approve. After approval, the products can be viewed in the store
 -products are part of categories (created dynamically - the admin can be CRUDE (create, update, delete) by categories)
